@@ -1,5 +1,5 @@
 <!-- Header Section -->
-<h1 align="center">🚀 Narendiran R - DevOps Engineer 🚀</h1>
+<h1 align="center">🚀 Narendiran R - GET 🚀</h1>
 
 <!-- About Me Section -->
 ## About Me
