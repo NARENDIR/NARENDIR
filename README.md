@@ -4,7 +4,7 @@
 <!-- About Me Section -->
 ## About Me
 
-Hey there! I'm Narendiran R, a dedicated DevOps Engineer at HCL Tech. I thrive on automating software delivery pipelines and creating scalable solutions. My expertise includes crafting CI/CD workflows, managing containers, and integrating cutting-edge tools for streamlined development processes.
+Hey there! I'm Narendiran R, a dedicated GET at HCL Tech. I thrive on automating software delivery pipelines and creating scalable solutions. My expertise includes crafting CI/CD workflows, managing containers, and integrating cutting-edge tools for streamlined development processes.
 
 <!-- Tools & Technologies Section -->
 ## 🛠️ Tools & Technologies
